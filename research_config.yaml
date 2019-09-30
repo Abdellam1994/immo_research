@@ -1,0 +1,6 @@
+budget:
+  min_budget: 150000
+  max_budget: 250000
+surface:
+  surface_min: 15
+  surface_max: 30
